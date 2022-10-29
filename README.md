@@ -14,3 +14,5 @@ git add. - comando usado para incluir alterações de todos os arquivos no próx
 
 git commit -m "descrição" - comando usado para criar um ponto de veriicação no projeto que pode serconsiderado uma versão empacotada do mesmo.
 
+git push <remote><branch> - comando usado para enviar e salvar as alterções no repositório remoto do Git
+
